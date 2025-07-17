@@ -8,6 +8,7 @@ node_modules/
 # Ignore build outputs
 dist/
 target/
+src/test/java/Autentication/AuthenticationTest.java
 
 # Ignore logs
 *.log
