@@ -1,5 +1,6 @@
 # Ignore compiled files
 *.class
+.java
 
 # Ignore node_modules
 node_modules/
