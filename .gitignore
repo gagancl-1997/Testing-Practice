@@ -1,0 +1,12 @@
+# Ignore compiled files
+*.class
+
+# Ignore node_modules
+node_modules/
+
+# Ignore build outputs
+dist/
+target/
+
+# Ignore logs
+*.log
